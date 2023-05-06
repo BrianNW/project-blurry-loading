@@ -24,6 +24,7 @@ body {
   height: 100vh;
   /* z-index behind */
   z-index: -1;
+  /* change this blur value to adjust blur amount */
   filter: blur(0px)
 }
 
